@@ -45,7 +45,7 @@ Github : https://github.com/ChoiEunjin
 
 ![image3]
 
-[image3]: http://www.techholic.co.kr/news/photo/201609/51804_27930_0800.jpg
+[image3]: https://s3.amazonaws.com/electronichousesite/wp-content/uploads/2015/07/11124234/Luzi-Smart-Lights.jpg
 + 사용자의 수면 과정을 기록하고 수집한 뒤, 그 데이터를 분석하여 가장 기상하기 쉬운 시점에 자연의 새벽과 흡사한 빛을 발산한다.
 + 최적의 낮잠 시간을 알려주기도 한다.
 
