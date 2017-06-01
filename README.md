@@ -27,19 +27,24 @@ Github : https://github.com/ChoiEunjin
 1) 뉴로온(NeuroOn)
 
 ![image1]
+
 [image1]: http://imgnn.seoul.co.kr/img//upload/2015/08/12/SSI_20150812175122_V.jpg
 + 사용자의 수면 과정을 기록하고 수집한 뒤, 그 데이터를 분석하여 가장 기상하기 쉬운 시점에 자연의 새벽과 흡사한 빛을 발산해 준다.
 + 최적의 낮잠 시간을 알려주기도 한다.
 
 2) 아이닉스(iNyx)
+
 ![image2]
-[image2]: http://www.techholic.co.kr/news/photo/201609/51804_27930_0800.jpg
+
+[image2]: http://post.phinf.naver.net/MjAxNzA0MDZfNzYg/MDAxNDkxNDA1Mjk4MjE1.INIRnbUtqdoSWKLFVYDzhBaNLhavugnBiy6iC38gJvMg.KeLd1oRvXuAoKTu5L5WopGIYUc-mx3J7R_jQFXd6xeUg.JPEG/Screen_20Shot_202016-04-20_20at_209.35.29_20AM.0.jpg?type=w1200
 
 + 자유롭게 블라인드를 사용함으로써 사생활 보호가 될 뿐 아니라 외부로부터 빛을 차단한다.
 + 내장되어 있는 빔 프로젝터를 이용하여 영화나 게임을 즐길 수 있다.
 
 3) 루지(Luzi)
+
 ![image3]
+
 [image3]: http://www.techholic.co.kr/news/photo/201609/51804_27930_0800.jpg
 + 사용자의 수면 과정을 기록하고 수집한 뒤, 그 데이터를 분석하여 가장 기상하기 쉬운 시점에 자연의 새벽과 흡사한 빛을 발산한다.
 + 최적의 낮잠 시간을 알려주기도 한다.
