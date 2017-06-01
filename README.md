@@ -10,6 +10,7 @@ Github : https://github.com/ChoiEunjin
 
 + 현재 한국기술교육대학교의 기숙사 수용률은 63.6%이고 대부분의 기숙사가 따로 떨어져 있는 침대를 사용한다.
 + 룸메이트와 함께 사용하는 학생 50명을 대상으로 한 설문 조사 결과
+
 응답 | 명
 -----|---
 불편함을 느낀 적이 있다|42명
@@ -25,6 +26,7 @@ Github : https://github.com/ChoiEunjin
 3. *기존 관련 사례*
 1) 뉴로온(NeuroOn)
 ![image1]
+[image1]: imgnn.seoul.co.kr/img//upload/2015/08/12/SSI_20150812175122_V.jpg
 + 사용자의 수면 과정을 기록하고 수집한 뒤, 그 데이터를 분석하여 가장 기상하기 쉬운 시점에 자연의 새벽과 흡사한 빛을 발산해 준다.
 + 최적의 낮잠 시간을 알려주기도 한다.
 
@@ -37,8 +39,4 @@ Github : https://github.com/ChoiEunjin
 ![image3]
 + 사용자의 수면 과정을 기록하고 수집한 뒤, 그 데이터를 분석하여 가장 기상하기 쉬운 시점에 자연의 새벽과 흡사한 빛을 발산한다.
 + 최적의 낮잠 시간을 알려주기도 한다.
-
-
-[image1]: imgnn.seoul.co.kr/img//upload/2015/08/12/SSI_20150812175122_V.jpg
-[image2]: static.dudeiwantthat.com//img/household/furniture/inyx-self-contained-bedroom-21652.jpg
 [image3]: 
